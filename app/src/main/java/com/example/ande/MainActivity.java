@@ -1,14 +1,14 @@
-package com.example.freelancerhomescreen;
+package com.example.ande;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 
-public class CertificationPage extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_certification_page);
+        setContentView(R.layout.activity_main);
     }
 }
